@@ -75,7 +75,7 @@ datatree = ["py.typed"]
 
 
 
-[mypy]
+[tool.mypy]
 files = "virtualizarr/**/*.py"
 show_error_codes = true
 
